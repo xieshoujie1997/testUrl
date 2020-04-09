@@ -1,6 +1,4 @@
 <?php
-     	echo " hello word !! ";
-	echo " !! ";
-	echo " 111 ";
+     	echo " hello word ! ";
 ?>
 
